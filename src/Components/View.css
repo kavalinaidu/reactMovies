@@ -1,0 +1,25 @@
+.view-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .movie-details {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .movie-details h1 {
+    margin-bottom: 10px;
+  }
+  
+  .movie-details img {
+    height: 100px;
+    width: 100px;
+  }
+  
+  .trailer {
+    width: 640px;
+    height: 390px;
+    margin: 0 auto;
+  }
